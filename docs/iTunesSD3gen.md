@@ -364,7 +364,7 @@ Here's the general layout of an iTunesSD file:<br>
 </td>
         <td>4<br>
 </td>
-        <td><br>
+        <td>Rythmbox IPod plugin sets this value always 0.<br>
 </td>
         <td><span style="font-family: 'Courier New',Courier,monospace;">112169</span><br>
 </td>
@@ -931,4 +931,5 @@ It seems to be ignored when shuffling within a playlist!<br>
 A dbid of all zeros yields a voiceover of All songs. Also playlist dbids without a corresponding voiceover file will yield a voiceover of playlist n or audiobook n where n is the playlist number. The shuffle assumes the podcast playlist is last.<br>
 <br>
 The <a class="wiki_link" href="iTunesStats3gen.md">iTunesStats</a> file is also different in the 3gen iPod.
+<p>Original Source: <a href="http://shuffle3db.wikispaces.com/iTunesSD3gen">http://shuffle3db.wikispaces.com/iTunesSD3gen</a> (expired)</p>
   </div>
